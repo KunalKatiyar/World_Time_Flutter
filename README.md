@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+A new Flutter project app to show different World Times when you select your desired region.
 
 ## Getting Started
 
